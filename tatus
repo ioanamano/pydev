@@ -1,0 +1,35 @@
+[33mcommit e459b2ecae3aae1bd6fec160ec04349dc7b5a4b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Mon Jan 9 18:01:37 2023 +0200
+
+    Create Article model and migrate to database
+
+[33mcommit b5522de97a87aa7dbb0fcfcde954ba889e3b6ccb[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Mon Jan 9 13:40:45 2023 +0200
+
+    Add bootstrap meta-tags
+
+[33mcommit 79f0b897e2be7f97e62347f884e4176a571a3cda[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Fri Jan 6 18:37:04 2023 +0200
+
+    Integrate bootstrap classes
+
+[33mcommit a3ae33a28d8685c90abeac103729facfd92cec14[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Fri Jan 6 13:45:10 2023 +0200
+
+    Add static CSS file
+
+[33mcommit 04e7bb984c4f23919924e54300db3098cd6edb3f[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Fri Jan 6 13:00:05 2023 +0200
+
+    Build pages using Django template language
+
+[33mcommit fa8485c058287316251c5716f7ccdb7d6b9b2a3b[m
+Author: Ioana Manolescu <ioanaimanolescu@gmail.com>
+Date:   Tue Jan 3 16:55:02 2023 +0200
+
+    Initial commit
